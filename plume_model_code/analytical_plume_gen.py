@@ -1,6 +1,6 @@
 import numpy as np
 
-def analytical_plume(T_AW, S_AW, Q_SGD, h_gl, w):
+def analytical_plume(T_AW, S_AW, Q_SGD, h_gl, w, alpha):
     """
     Analytical plume model following Muilwijk et al. (2022), Section 3e.
     Code adapted from Matlab script by Aurora Roth (2023)
@@ -17,6 +17,8 @@ def analytical_plume(T_AW, S_AW, Q_SGD, h_gl, w):
         Grounding line depth [m].
     w : float or array-like
         Channel width [m].
+    alpha : float or array-like
+        Entrainment coefficient
 
     Returns
     -------
@@ -47,7 +49,7 @@ def analytical_plume(T_AW, S_AW, Q_SGD, h_gl, w):
     T_AW, S_AW, Q_SGD, h_gl, w = np.broadcast_arrays(T_AW, S_AW, Q_SGD, h_gl, w)
 
     # Constants from Muilwijk et al. (2022)
-    a = 0.1        # Entrainment coefficient
+    a = alpha       # Entrainment coefficient
     g_0 = 0.26     # Reduced gravity [m^2/s]
     l2 = 8.32e-2   # Freezing point offset [°C]
     l3 = -7.53e-4  # Freezing point depth slope [°C/m]
