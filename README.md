@@ -1,7 +1,7 @@
-This repository was created to introduce the physical theory behind some of the buoyant plume models  
+Welcome! This repository was created to introduce the physical theory behind some of the buoyant plume models  
 frequently used to describe subglacial freshwater plumes in Arctic and Antarctic oceanography. The intended audience
 is for students of physical oceanography interested in applying models like these to their research and would like 
-to understand what, exactly, the models are doing. 
+to understand what, exactly, the models are doing.
 
 Buoyant plume models are applied widely in the physical oceanography literature, but it is hard to find a 
 recent and comprehensive document that outlines exactly what these models do and why. When using a model it is 
