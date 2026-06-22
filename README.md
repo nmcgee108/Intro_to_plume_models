@@ -23,7 +23,7 @@ buoyant plume theory (BPT) is applicable to a wide range of physical phenomena.)
 ## Run the Jupyter Notebook in your browser, no installation required!
 
 <a href="https://mybinder.org/v2/gh/nmcgee108/Intro_to_plume_models/HEAD?urlpath=%2Fdoc%2Ftree%2Fjupyter_notebooks%2FBPT_intro.ipynb">
-  <img src="https://mybinder.org/badge_logo.svg" width="150">
+  <img src="https://mybinder.org/badge_logo.svg" width="300">
 </a>
 
 Click the badge above to launch the notebook on Binder. All dependencies are installed automatically — 
