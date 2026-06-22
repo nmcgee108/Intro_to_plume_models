@@ -1,2 +1,5 @@
 /buoyant_plume_models.egg-info
 /jupyter_notebooks/.ipynb_checkpoints
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
