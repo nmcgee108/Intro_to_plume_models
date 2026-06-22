@@ -17,7 +17,7 @@ buoyant plume theory (BPT) is applicable to a wide range of physical phenomena.)
 - A [written document](https://github.com/nmcgee108/Intro_to_plume_models/blob/main/Introduction_to_Buoyant_Plume_Theory.pdf) walking through the theory in detail
 - An interactive Jupyter notebook implementing two types of plume models
 - Full Python scripts for both models
-- Example temperature, salinity, and depth data for three ambient water conditions, used in the notebook
+- Example temperature, salinity, and depth data for three ambient water conditions (used in the notebook)
 - An environment file 'plume_environment.yml' for running everything locally, if preferred
 
 ## Run the Jupyter Notebook in your browser, no installation required!
