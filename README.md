@@ -14,7 +14,7 @@ goal of introducing some of the math, history, reasoning, and assumptions behind
 buoyant plume theory (BPT) is applicable to a wide range of physical phenomena.)*
 
 ## What's in this repository
-- A written document walking through the theory in detail
+- A [written document](https://github.com/nmcgee108/Intro_to_plume_models/blob/main/Introduction_to_Buoyant_Plume_Theory.pdf) walking through the theory in detail
 - An interactive Jupyter notebook implementing two types of plume models
 - Full Python scripts for both models
 - Example emperature, salinity, and depth data for three ambient water conditions, used in the notebook
