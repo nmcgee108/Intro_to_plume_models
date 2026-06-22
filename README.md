@@ -11,5 +11,5 @@ of the math, history, reasoning, and assumptions behind buoyant plume theory.
 (Note: though the glacial fjord application is the focus of this tool, the theoretical framework behind buoyant plume 
 theory (BPT) is applicable to a wide range of physical phenomena). 
 
-This repository contains a written document that walks through all of this in detail. Full python scripts for two types
-of models are included here as well, which can be implemented through the interactive jupyter notebook.
+This repository contains a written document that walks through all of this in detail. Full Python scripts for two types
+of models are included here as well, which can be implemented through the interactive Jupyter Notebook.
