@@ -13,7 +13,8 @@ dependencies = [
     "scipy",
     "matplotlib",
     "gsw",
-    "ipywidgets"
+    "ipywidgets",
+    "pandas"
 ]
 
 [tool.setuptools]
